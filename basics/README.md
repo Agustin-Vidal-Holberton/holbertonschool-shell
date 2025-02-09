@@ -5,3 +5,4 @@ Description of each cripts funtion
 3-listfiles: display current directory contents in a long format
 4-listmorefiles: display current directory contents in a long format, including hidden files
 5-listfilesdigitonly: display current directory contents in a long format, including hidden files, whith users and groups ID's displayed numerically
+6-firstdirectory: creates a directory named my_first_directory in the /tmp/ directory
