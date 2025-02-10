@@ -13,3 +13,4 @@ Description of each cripts funtion
 11-lists: lists all files(even the hidden ones) in the current directory, in the parent and in the /boot dir.
 12-file_type: prints the type of the file name iamafile on /tmp
 13-symbolic_link: create a symbolic link to /bin/ls, named _ls_ in the current directory
+14-copy_html: copies all html files from the current working directory to the parent of the working directory, but only copy if did not exist in the parent or were newer than the version in the parent working directory
