@@ -12,3 +12,4 @@ Description of each cripts funtion
 10-back: changes the working directory to the previous one
 11-lists: lists all files(even the hidden ones) in the current directory, in the parent and in the /boot dir.
 12-file_type: prints the type of the file name iamafile on /tmp
+13-symbolic_link: create a symbolic link to /bin/ls, named _ls_ in the current directory
