@@ -16,3 +16,4 @@ Description of each cripts funtion
 14-copy_html: copies all html files from the current working directory to the parent of the working directory, but only copy if did not exist in the parent or were newer than the version in the parent working directory
 15-lets_move: moves all files beginnig with an uppercase letter to the directory /tmp/u
 16-clean_emacs: deletes all files in the current working directory that end with the character '~'
+17-tree: crete the directories welcome, welcome/to and welcome/to/school in the current directory
