@@ -9,3 +9,4 @@ Description of each cripts funtion
 7-movethatfile: move the file betty from /tmp/ to /tmp/my_first_directory
 8-firstdelete: delete the betty file
 9-firstdirdeletion: delete the directory my_first_directory that is in /tmp
+10-back: changes the working directory to the previous one
