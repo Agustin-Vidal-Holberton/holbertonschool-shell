@@ -14,3 +14,4 @@ Description of each cripts funtion
 12-file_type: prints the type of the file name iamafile on /tmp
 13-symbolic_link: create a symbolic link to /bin/ls, named _ls_ in the current directory
 14-copy_html: copies all html files from the current working directory to the parent of the working directory, but only copy if did not exist in the parent or were newer than the version in the parent working directory
+15-lets_move: moves all files beginnig with an uppercase letter to the directory /tmp/u
