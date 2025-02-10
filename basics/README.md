@@ -11,3 +11,4 @@ Description of each cripts funtion
 9-firstdirdeletion: delete the directory my_first_directory that is in /tmp
 10-back: changes the working directory to the previous one
 11-lists: lists all files(even the hidden ones) in the current directory, in the parent and in the /boot dir.
+12-file_type: prints the type of the file name iamafile on /tmp
