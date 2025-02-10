@@ -10,3 +10,4 @@ Description of each cripts funtion
 8-firstdelete: delete the betty file
 9-firstdirdeletion: delete the directory my_first_directory that is in /tmp
 10-back: changes the working directory to the previous one
+11-lists: lists all files(even the hidden ones) in the current directory, in the parent and in the /boot dir.
