@@ -10,3 +10,4 @@ In this file will enter the description of the scripts on Shell, permissions pro
 8-James-Bond: sets the permissions to hello file as owner and group don't have any, and only other have them all
 9-John_Doe: sets the mode of the file like the exaple(753)
 10-mirror_permissions: sets the same permisssions for hello from olleh
+11-directories_permissions: add execute permissions to all subdirectories of the current directory for the owner, group owner and all other users, without change files permissions
