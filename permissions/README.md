@@ -8,3 +8,4 @@ In this file will enter the description of the scripts on Shell, permissions pro
 6-multiple_permissions: adds execute permissions to owner and group owner, and read to others to the file hello
 7-everybody: adds execution permissions to owner, group owner and others to the file hello
 8-James-Bond: sets the permissions to hello file as owner and group don't have any, and only other have them all
+9-John_Doe: sets the mode of the file like the exaple(753)
