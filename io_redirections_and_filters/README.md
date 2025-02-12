@@ -4,3 +4,4 @@ Descriptions of the scripts funtions
 2-hellofile: display the content of the file /etc/passwd
 3-twofiles: displays the content of two files, /etc/passwd and /etc/hosts
 4-lastlines: displays the 10 last lines of the file /etc/passwd
+5-firtlines: display the first 10 lines of the file /etc/passwd 
