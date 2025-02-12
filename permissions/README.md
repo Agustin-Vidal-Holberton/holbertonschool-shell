@@ -14,3 +14,4 @@ In this file will enter the description of the scripts on Shell, permissions pro
 12-directory_permissions: create a directory with the permissions 751, named my_dir in the working directory
 13-change_group: changes the group owner to school for the file hello
 14-change_owner_and_group: changes the owner to vincent and the owner group to staff for all the files and directories in the working directory
+15-symbolyc_link_permissions: changes the owner and the owner group of _hello(sym. link) to vincent and staff
