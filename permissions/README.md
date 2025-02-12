@@ -15,3 +15,4 @@ In this file will enter the description of the scripts on Shell, permissions pro
 13-change_group: changes the group owner to school for the file hello
 14-change_owner_and_group: changes the owner to vincent and the owner group to staff for all the files and directories in the working directory
 15-symbolyc_link_permissions: changes the owner and the owner group of _hello(sym. link) to vincent and staff
+16-if_only: changes the owner of the file hello to vincent only if the previous owner is guillaume
