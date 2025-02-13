@@ -13,3 +13,4 @@ Descriptions of the scripts funtions
 11-directories: count the number of directories and subdirectories in the current directory without counting the parent and including the hiddeng ones
 12-newest_files: displeys the 10 newest files in the current directory and sorted newest to older and one per line
 13-unique: take a list of words as input and prints words that appear exactly once, one per line the input and the output and sorted
+14-findthatword: display lines containing the pattern 'root' from the file /etc/passwd
