@@ -7,3 +7,4 @@ Descriptions of the scripts funtions
 5-firtlines: display the first 10 lines of the file /etc/passwd 
 6-third_line: display yhe third line of the file iacta
 7-file: creates a file  whith the content best school
+8-cwd_state: writes into the file ls_cwd_content the result of the ls -la command if the file exists it will overwritten and if does not exist, create it
