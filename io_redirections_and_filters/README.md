@@ -10,3 +10,4 @@ Descriptions of the scripts funtions
 8-cwd_state: writes into the file ls_cwd_content the result of the ls -la command if the file exists it will overwritten and if does not exist, create it
 9-duplicate_last_line: duplicates the last line of the file
 10-no_more_js: deletes all files that are .js extensions
+11-directories: count the number of directories and subdirectories in the current directory without counting the parent and including the hiddeng ones
