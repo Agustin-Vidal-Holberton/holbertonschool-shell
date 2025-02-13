@@ -8,3 +8,4 @@ Descriptions of the scripts funtions
 6-third_line: display yhe third line of the file iacta
 7-file: creates a file  whith the content best school
 8-cwd_state: writes into the file ls_cwd_content the result of the ls -la command if the file exists it will overwritten and if does not exist, create it
+9-duplicate_last_line: duplicates the last line of the file
